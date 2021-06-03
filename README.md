@@ -2,4 +2,4 @@
 
 Access page here 
 
-https://github.com/Chithra1996/Web-Design-Challenge/
+https://chithra1996.github.io/Web-Design-Challenge/
